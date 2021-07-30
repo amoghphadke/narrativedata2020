@@ -33,11 +33,9 @@ Georgia,0.718,9.569
 Germany,0.905,10.833
 Ghana,0.643,8.59
 Greece,0.779,10.215
-Hong Kong S.A.R. of China,0.813,
 Hungary,0.943,10.335
 Iceland,0.983,10.824
 India,0.617,8.703
-Iran,0.757,
 Iraq,0.708,9.167
 Ireland,0.96,11.323
 Israel,0.959,10.538
@@ -47,12 +45,10 @@ Japan,0.887,10.58
 Jordan,0.709,9.15
 Kazakhstan,0.966,10.135
 Kenya,0.674,8.365
-Kosovo,0.792,
 Kyrgyzstan,0.902,8.503
 Laos,0.66,8.96
 Latvia,0.928,10.3
 Lithuania,0.953,10.504
-Malta,0.938,
 Mauritius,0.893,9.972
 Mexico,0.779,9.782
 Moldova,0.874,9.462
@@ -79,7 +75,6 @@ South Korea,0.808,10.648
 Spain,0.935,10.488
 Sweden,0.936,10.838
 Switzerland,0.946,11.081
-Taiwan Province of China,0.901,
 Tajikistan,0.79,8.08
 Tanzania,0.74,7.881
 Thailand,0.867,9.769
@@ -91,6 +86,5 @@ United Arab Emirates,0.827,11.053
 United Kingdom,0.929,10.626
 United States,0.937,11.001
 Uruguay,0.921,9.937
-Venezuela,0.805,
 Zambia,0.767,8.117
 Zimbabwe,0.717,7.829
